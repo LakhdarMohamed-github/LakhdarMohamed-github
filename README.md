@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://twitter.com/lakmed11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakmed11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lakhdar-mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakhdar-mohamed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/13295453/lakhdar-mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/13295453/lakhdar-mohamed" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13295453/lakhdar-mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/13295453/lakhdar-mohamed" height="30" width="40" /></a>
 <a href="https://medium.com/@medlakhdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@medlakhdar" height="30" width="40" /></a>
 <a href="https://discord.gg/MedLak#4750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MedLak#4750" height="30" width="40" /></a>
 </p>
