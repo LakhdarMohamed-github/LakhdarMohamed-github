@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lakhdar-mohamed/](https://www.linkedin.com/in/lakhdar-mohamed/)
 
-- ⚡ Fun fact **“When you focus on you, you grow. When you focus on sh_t, sh_t grows. Read that again!”**
+- ⚡ Fun fact **“ Coding Bugs were NOT named after an actual bug!”**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
