@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and Flutter**
 
-- 👯 I’m looking to collaborate on **some big and challenging projects**
+- 🤝 I’m looking to collaborate on **some big and challenging projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LakhdarMohamed-github?tab=repositories](https://github.com/LakhdarMohamed-github?tab=repositories)
 
