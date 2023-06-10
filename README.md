@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/lakhdar-mohamed/](https://www.linkedin.com/in/lakhdar-mohamed/)
 
-- ⚡ Fun fact **“ Coding Bugs were NOT named after an actual bug!”**
+- ⚡ Fun fact **“ Coding Bugs were NOT named after an actual bug! ”**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
