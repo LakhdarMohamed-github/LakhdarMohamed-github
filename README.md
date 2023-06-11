@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **some cool freelancing projects**
 
-- 🌱 I’m currently learning **MERN Stack and Flutter**
+- 🌱 I’m currently learning **Next.js and Flutter**
 
 - 🤝 I’m looking to collaborate on **some big and challenging projects**
 
