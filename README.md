@@ -26,7 +26,7 @@
 - ⚡ Fun fact **“ Coding Bugs were NOT named after an actual bug! ”** Read my article about that : [[The Real Story Behind the Term “Bug” in Coding](https://medium.com/@medlakhdar/the-real-story-behind-the-term-bug-in-coding-d18bc2d8bee0)] 
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
