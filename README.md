@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/lakmed11" target="blank"><img src="https://img.shields.io/twitter/follow/lakmed11?logo=twitter&style=for-the-badge" alt="lakmed11" /></a> </p>
 
-- 🔭 I’m currently working on **some cool freelancing projects**
+- 🔭 I’m currently working on **some cool freelancing projects.**
 
-- 🌱 I’m currently learning **Next.js and Flutter**
+- 🌱 I’m currently learning **Next.js and Flutter.**
 
-- 🤝 I’m looking to collaborate on **some big and challenging projects**
+- 🤝 I’m looking to collaborate on **some big and challenging projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LakhdarMohamed-github?tab=repositories](https://github.com/LakhdarMohamed-github?tab=repositories)
 
